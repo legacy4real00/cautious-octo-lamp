@@ -3,7 +3,7 @@ import subprocess
 import time
 
 
-BASE_URL = 'https://hingoli.io'
+BASE_URL = 'https://hingoli.io/soul'
 SOUL_PATH = '/77853080158836/'
 DONE_PATH = '/77853080158836/done'
 USER_AGENT = 'TG-SOULCRACK'
